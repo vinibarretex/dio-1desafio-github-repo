@@ -1,0 +1,7 @@
+1. Entrar na pasta que deseja, clicar com o botão direito e "Git Bash Here".
+2. escrever o comando 'git status' (os arquivos estarão em vermelho).
+3. escrever o comando 'git add . ou *' para adicionar os arquivos.
+4. 'git status' novamente, dessa vez os arquivos devem aparecer em verde.
+5. 'git commit -m "<Inserir o comentário que deseja>", esse comentário aparecerá na interface do GitHub.
+6. 'git push origin main', esse comando é para 'subir' seu repositório remotamente.
+7. Ir no seu repositório do GitHub e atualizar a página, o novo arquivo deve aparecer lá.
